@@ -1,6 +1,11 @@
 {
   "name": "ReactStarter",
   "version": "1.0.0",
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-preset-latest": "^6.24.0",
+    "babel-preset-react": "^6.23.0"
+  },
   "description": "My Project\r ---",
   "main": "index.js",
   "scripts": {
